@@ -43,11 +43,10 @@
 		
 	
 
-	
+	$url = $mybb->settings['bburl'];
+	//echo($url);
 
-    header("Location: https://hiraeth.at/fh");
-	
-	
+    header('Location: '.$url);
 
 ?>
 
