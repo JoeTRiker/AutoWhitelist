@@ -14,7 +14,7 @@ function autowhitelist_info()
 		"website"		=> "https://hiraeth.at/ashes",
 		"author"		=> "Joe Riker",
 		"authorsite"	=> "https://hiraeth.at/ashes",
-		"version"		=> "2.0",
+		"version"		=> "1.0",
 		"compatibility" => "*"
 	);
 }
