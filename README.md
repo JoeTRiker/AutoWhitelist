@@ -14,7 +14,7 @@ Please make sure to update tests as appropriate.
 
 ##Version
 
-This is Version 2.0
+This is Version 1.0
 
 ##Author
 
